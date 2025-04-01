@@ -1,4 +1,4 @@
-# Nwxt.js勉強用　タスク管理アプリ
+# Next.js勉強用　タスク管理アプリ
 
 ## Getting Started
 
